@@ -1,0 +1,6 @@
+# Large Lending Club source data is distributed separately (see README.md)
+loan_data_2007_2014.csv
+
+# Jupyter-generated checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/

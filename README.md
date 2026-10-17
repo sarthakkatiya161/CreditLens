@@ -21,11 +21,7 @@ Project Structure
 
 ├── datasets
 
-│ ├── loan_data_2007_2014.csv # Raw Lending Club data
-
-│ ├── loan_data_2007_2014_preprocessed.csv # Cleaned dataset
-
-│ ├── df_scorecard.csv # Contains coefficients for the scorecard
+│ ├── loan_data_2007_2014.csv
 
 ├── Models
 
